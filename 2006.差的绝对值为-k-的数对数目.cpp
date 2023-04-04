@@ -20,7 +20,6 @@ public:
             hashtable[nums[i]]++;
         }
         return res;
-
     }
 };
 // @lc code=end
